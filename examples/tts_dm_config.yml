@@ -1,0 +1,510 @@
+'100':
+  id: '100'
+  language: sv
+  name: Lunds OK 1
+  tts: 100, Lunds O K,  1
+'101':
+  id: '101'
+  language: sv
+  name: Malmö OK 1
+  tts: 101, Malmö O K,  1
+'102':
+  id: '102'
+  language: sv
+  name: Malmö OK 2
+  tts: 102, Malmö O K,  2
+'103':
+  id: '103'
+  language: sv
+  name: OK Kontinent 1
+  tts: 103, O K  Kontinent, 1
+'104':
+  id: '104'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 104, O K  Pan-Kristianstad, 1
+'108':
+  id: '108'
+  language: sv
+  name: OK Kompassen 1
+  tts: 108, O K  Kompassen, 1
+'110':
+  id: '110'
+  language: sv
+  name: Andrarums IF 1
+  tts: 110, Andrarums I F,  1
+'111':
+  id: '111'
+  language: sv
+  name: FK Göingarna 1
+  tts: 111, F K  Göingarna, 1
+'112':
+  id: '112'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 112, Hjärnarps O L,  1
+'113':
+  id: '113'
+  language: sv
+  name: OK Gynge 1
+  tts: 113, O K  Gynge, 1
+'114':
+  id: '114'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 114, O K  Pan-Kristianstad, 1
+'115':
+  id: '115'
+  language: sv
+  name: Skåneslättens OL 1
+  tts: 115, Skåneslättens O L,  1
+'116':
+  id: '116'
+  language: sv
+  name: Örkelljunga FK 1
+  tts: 116, Örkelljunga F K,  1
+'120':
+  id: '120'
+  language: sv
+  name: Andrarums IF 1
+  tts: 120, Andrarums I F,  1
+'121':
+  id: '121'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 121, Hjärnarps O L,  1
+'122':
+  id: '122'
+  language: sv
+  name: Hästveda OK 1
+  tts: 122, Hästveda O K,  1
+'123':
+  id: '123'
+  language: sv
+  name: Malmö OK 1
+  tts: 123, Malmö O K,  1
+'124':
+  id: '124'
+  language: sv
+  name: Malmö OK 2
+  tts: 124, Malmö O K,  2
+'125':
+  id: '125'
+  language: sv
+  name: OK Kontinent 1
+  tts: 125, O K  Kontinent, 1
+'126':
+  id: '126'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 126, O K  Pan-Kristianstad, 1
+'130':
+  id: '130'
+  language: sv
+  name: FK Göingarna 1
+  tts: 130, F K  Göingarna, 1
+'131':
+  id: '131'
+  language: sv
+  name: FK Åsen 1
+  tts: 131, F K  Åsen, 1
+'132':
+  id: '132'
+  language: sv
+  name: OK Tyringe 1
+  tts: 132, O K  Tyringe, 1
+'135':
+  id: '135'
+  language: sv
+  name: FK Åsen 1
+  tts: 135, F K  Åsen, 1
+'136':
+  id: '136'
+  language: sv
+  name: Frosta OK 1
+  tts: 136, Frosta O K,  1
+'137':
+  id: '137'
+  language: sv
+  name: Helsingborgs SOK 1
+  tts: 137, Helsingborgs S O K,  1
+'138':
+  id: '138'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 138, Hjärnarps O L,  1
+'139':
+  id: '139'
+  language: sv
+  name: Hjärnarps OL 2
+  tts: 139, Hjärnarps O L,  2
+'140':
+  id: '140'
+  language: sv
+  name: Helsingborgs SOK 1
+  tts: 140, Helsingborgs S O K,  1
+'141':
+  id: '141'
+  language: sv
+  name: Helsingborgs SOK 2
+  tts: 141, Helsingborgs S O K,  2
+'142':
+  id: '142'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 142, Hjärnarps O L,  1
+'143':
+  id: '143'
+  language: sv
+  name: Hästveda OK 1
+  tts: 143, Hästveda O K,  1
+'144':
+  id: '144'
+  language: sv
+  name: Malmö OK 1
+  tts: 144, Malmö O K,  1
+'145':
+  id: '145'
+  language: sv
+  name: OK Kontinent 1
+  tts: 145, O K  Kontinent, 1
+'146':
+  id: '146'
+  language: sv
+  name: Örkelljunga FK 1
+  tts: 146, Örkelljunga F K,  1
+'160':
+  id: '160'
+  language: sv
+  name: OK Gynge 1
+  tts: 160, O K  Gynge, 1
+'161':
+  id: '161'
+  language: sv
+  name: OK Gynge 2
+  tts: 161, O K  Gynge, 2
+'162':
+  id: '162'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 162, O K  Pan-Kristianstad, 1
+'163':
+  id: '163'
+  language: sv
+  name: OK Tyringe 1
+  tts: 163, O K  Tyringe, 1
+'164':
+  id: '164'
+  language: sv
+  name: Helsingborgs SOK 1
+  tts: 164, Helsingborgs S O K,  1
+'167':
+  id: '167'
+  language: sv
+  name: FK Göingarna 1
+  tts: 167, F K  Göingarna, 1
+'168':
+  id: '168'
+  language: sv
+  name: Helsingborgs SOK 1
+  tts: 168, Helsingborgs S O K,  1
+'169':
+  id: '169'
+  language: sv
+  name: Tormestorps IF 1
+  tts: 169, Tormestorps I F,  1
+'172':
+  id: '172'
+  language: sv
+  name: Andrarums IF 1
+  tts: 172, Andrarums I F,  1
+'173':
+  id: '173'
+  language: sv
+  name: FK Boken 1
+  tts: 173, F K  Boken, 1
+'174':
+  id: '174'
+  language: sv
+  name: FK Göingarna 1
+  tts: 174, F K  Göingarna, 1
+'175':
+  id: '175'
+  language: sv
+  name: FK Göingarna 2
+  tts: 175, F K  Göingarna, 2
+'176':
+  id: '176'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 176, Hjärnarps O L,  1
+'177':
+  id: '177'
+  language: sv
+  name: Malmö OK 1
+  tts: 177, Malmö O K,  1
+'178':
+  id: '178'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 178, O K  Pan-Kristianstad, 1
+'179':
+  id: '179'
+  language: sv
+  name: Skåneslättens OL 1
+  tts: 179, Skåneslättens O L,  1
+'180':
+  id: '180'
+  language: sv
+  name: Skåneslättens OL 2
+  tts: 180, Skåneslättens O L,  2
+'200':
+  id: '200'
+  language: sv
+  name: FK Boken 1
+  tts: 200, F K  Boken, 1
+'201':
+  id: '201'
+  language: sv
+  name: FK Göingarna 1
+  tts: 201, F K  Göingarna, 1
+'202':
+  id: '202'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 202, Hjärnarps O L,  1
+'203':
+  id: '203'
+  language: sv
+  name: Hjärnarps OL 2
+  tts: 203, Hjärnarps O L,  2
+'204':
+  id: '204'
+  language: sv
+  name: Lunds OK 1
+  tts: 204, Lunds O K,  1
+'205':
+  id: '205'
+  language: sv
+  name: Lunds OK 2
+  tts: 205, Lunds O K,  2
+'210':
+  id: '210'
+  language: sv
+  name: FK Göingarna 1
+  tts: 210, F K  Göingarna, 1
+'211':
+  id: '211'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 211, Hjärnarps O L,  1
+'212':
+  id: '212'
+  language: sv
+  name: OK Gynge 1
+  tts: 212, O K  Gynge, 1
+'213':
+  id: '213'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 213, O K  Pan-Kristianstad, 1
+'214':
+  id: '214'
+  language: sv
+  name: OK Pan-Kristianstad 2
+  tts: 214, O K  Pan-Kristianstad, 2
+'215':
+  id: '215'
+  language: sv
+  name: Skåneslättens OL 1
+  tts: 215, Skåneslättens O L,  1
+'220':
+  id: '220'
+  language: sv
+  name: Andrarums IF 1
+  tts: 220, Andrarums I F,  1
+'221':
+  id: '221'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 221, Hjärnarps O L,  1
+'222':
+  id: '222'
+  language: sv
+  name: Hästveda OK 1
+  tts: 222, Hästveda O K,  1
+'223':
+  id: '223'
+  language: sv
+  name: Malmö OK 1
+  tts: 223, Malmö O K,  1
+'224':
+  id: '224'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 224, O K  Pan-Kristianstad, 1
+'225':
+  id: '225'
+  language: sv
+  name: Örkelljunga FK 1
+  tts: 225, Örkelljunga F K,  1
+'236':
+  id: '236'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 236, Hjärnarps O L,  1
+'237':
+  id: '237'
+  language: sv
+  name: IS Kullen 1
+  tts: 237, I S  Kullen, 1
+'238':
+  id: '238'
+  language: sv
+  name: Malmö OK 1
+  tts: 238, Malmö O K,  1
+'240':
+  id: '240'
+  language: sv
+  name: Skåneslättens OL 1
+  tts: 240, Skåneslättens O L,  1
+'241':
+  id: '241'
+  language: sv
+  name: Hjärnarps OL 1
+  tts: 241, Hjärnarps O L,  1
+'242':
+  id: '242'
+  language: sv
+  name: Hästveda OK 1
+  tts: 242, Hästveda O K,  1
+'243':
+  id: '243'
+  language: sv
+  name: Helsingborgs SOK 1
+  tts: 243, Helsingborgs S O K,  1
+'244':
+  id: '244'
+  language: sv
+  name: Helsingborgs SOK 2
+  tts: 244, Helsingborgs S O K,  2
+'250':
+  id: '250'
+  language: sv
+  name: FK Boken 1
+  tts: 250, F K  Boken, 1
+'251':
+  id: '251'
+  language: sv
+  name: Malmö OK 1
+  tts: 251, Malmö O K,  1
+'252':
+  id: '252'
+  language: sv
+  name: Skåneslättens OL 1
+  tts: 252, Skåneslättens O L,  1
+'253':
+  id: '253'
+  language: sv
+  name: Tormestorps IF 1
+  tts: 253, Tormestorps I F,  1
+'260':
+  id: '260'
+  language: sv
+  name: Helsingborgs SOK 1
+  tts: 260, Helsingborgs S O K,  1
+'261':
+  id: '261'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 261, O K  Pan-Kristianstad, 1
+'310':
+  id: '310'
+  language: sv
+  name: FK Göingarna 1
+  tts: 310, F K  Göingarna, 1
+'311':
+  id: '311'
+  language: sv
+  name: Lunds OK 1
+  tts: 311, Lunds O K,  1
+'312':
+  id: '312'
+  language: sv
+  name: Lunds OK 2
+  tts: 312, Lunds O K,  2
+'313':
+  id: '313'
+  language: sv
+  name: Lunds OK 3
+  tts: 313, Lunds O K,  3
+'314':
+  id: '314'
+  language: sv
+  name: Malmö OK 1
+  tts: 314, Malmö O K,  1
+'315':
+  id: '315'
+  language: sv
+  name: OK Gynge 1
+  tts: 315, O K  Gynge, 1
+'316':
+  id: '316'
+  language: sv
+  name: OK Kontinent 1
+  tts: 316, O K  Kontinent, 1
+'317':
+  id: '317'
+  language: sv
+  name: OK Pan-Kristianstad 1
+  tts: 317, O K  Pan-Kristianstad, 1
+'318':
+  id: '318'
+  language: sv
+  name: Skåneslättens OL 1
+  tts: 318, Skåneslättens O L,  1
+'330':
+  id: '330'
+  language: sv
+  name: FK Åsen 1
+  tts: 330, F K  Åsen, 1
+'331':
+  id: '331'
+  language: sv
+  name: FK Åsen 2
+  tts: 331, F K  Åsen, 2
+'332':
+  id: '332'
+  language: sv
+  name: FK Åsen 3
+  tts: 332, F K  Åsen, 3
+'333':
+  id: '333'
+  language: sv
+  name: Hässleholms OK / OK Tyringe / Tormestorps IF 2
+  tts: 333, Hässleholms O K  / O K  Tyringe / Tormestorps I F,  2
+'334':
+  id: '334'
+  language: sv
+  name: Hässleholms OK 1
+  tts: 334, Hässleholms O K,  1
+'335':
+  id: '335'
+  language: sv
+  name: OK Gynge 1
+  tts: 335, O K  Gynge, 1
+'336':
+  id: '336'
+  language: sv
+  name: Skåneslättens OL 1
+  tts: 336, Skåneslättens O L,  1
+'337':
+  id: '337'
+  language: sv
+  name: Skåneslättens OL 2
+  tts: 337, Skåneslättens O L,  2
+'350':
+  id: '350'
+  language: sv
+  name: Malmö OK 1
+  tts: 350, Malmö O K,  1

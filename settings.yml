@@ -1,0 +1,11 @@
+meos:
+    infoserver_url: http://10.1.0.10:2009
+    team_path: /meos?get=team
+
+tts:
+    enabled: True
+    engine: google
+    language: "sv"
+    # When using Google the Google creds needs to be set up first.
+    generator_config: tts_dm_config.yml
+    output_dir: dm-tts
