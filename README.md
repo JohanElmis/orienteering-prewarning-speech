@@ -37,7 +37,7 @@ So I decided to just focus on the voice-part.
 ### Online Radio controls
 * [Radio Online Control](https://roc.olresultat.se/ver7.3/roc.php?mainmenu=about&language=engelska)
 
-* [https://wiroc.se/#wiroc](WiRoc)
+* [WiRoc](https://wiroc.se/#wiroc)
 
 ## Installation
 Check out into your local directory<BR>
@@ -70,10 +70,10 @@ $ pipenv shell
 
 # Run the actual command - after editing the settings.yml file.
 python meos_relay_tts_generator.py
-# Exit the environment
-() $ exit
 
-$
+# Exit the environment
+$ exit
+
 ```
 
 
@@ -91,3 +91,11 @@ The problem for me was that they didn't offer a API unless you have a subscripti
 
 [TTS Free](https://ttsfree.com/text-to-speech/swedish)<BR>
 Had some quite fair voice - but required some more tweaking of the sentences to sound ok.
+
+
+## Contact:
+I'm part of Lunds OK (Orienteering club) in Sweden, and the Incoming-Orienteerer is developed by Björn in Malmö OK.
+Please reach out if you have ideas or want to make contributions to make this more generic.
+
+Happy Orienteering,
+Johan Elmerfjord
